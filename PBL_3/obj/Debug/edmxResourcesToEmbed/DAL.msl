@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyThuVienModelStoreContainer" CdmEntityContainer="QLTV">
+    <EntitySetMapping Name="ACCOUNTs">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.ACCOUNT">
+        <MappingFragment StoreEntitySet="ACCOUNT">
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BOOKs">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.BOOK">
+        <MappingFragment StoreEntitySet="BOOK">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+          <ScalarProperty Name="AUTHOR" ColumnName="AUTHOR" />
+          <ScalarProperty Name="ID_CATEGORY" ColumnName="ID_CATEGORY" />
+          <ScalarProperty Name="PUBLISH_YEAR" ColumnName="PUBLISH_YEAR" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CATEGORies">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.CATEGORY">
+        <MappingFragment StoreEntitySet="CATEGORY">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="LEND_NUMBER_DAY" ColumnName="LEND_NUMBER_DAY" />
+          <ScalarProperty Name="LOCATION" ColumnName="LOCATION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LENDED_BOOK">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.LENDED_BOOK">
+        <MappingFragment StoreEntitySet="LENDED_BOOK">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_BOOK" ColumnName="ID_BOOK" />
+          <ScalarProperty Name="ID_STUDENT" ColumnName="ID_STUDENT" />
+          <ScalarProperty Name="LEND_DAY" ColumnName="LEND_DAY" />
+          <ScalarProperty Name="OVERDUE_DAY" ColumnName="OVERDUE_DAY" />
+          <ScalarProperty Name="OVERDUE" ColumnName="OVERDUE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STAFFs">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.STAFF">
+        <MappingFragment StoreEntitySet="STAFF">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ROLE" ColumnName="ROLE" />
+          <ScalarProperty Name="PHONENUMBER" ColumnName="PHONENUMBER" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STUDENTs">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.STUDENT">
+        <MappingFragment StoreEntitySet="STUDENT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="CLASS" ColumnName="CLASS" />
+          <ScalarProperty Name="NUMBER_PHONE" ColumnName="NUMBER_PHONE" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

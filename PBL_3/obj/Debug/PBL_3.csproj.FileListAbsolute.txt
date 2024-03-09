@@ -1,0 +1,315 @@
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\obj\Debug\PBL_3.StudentForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\rar\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\PBL_3.exe.config
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\EntityFramework.dll
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\Guna.UI2.dll
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\EntityFramework.xml
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.MainForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.StudentForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\obj\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\WebGrease.dll
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\Huy\_PBL3_Huy\PBL_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+D:\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+D:\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndtnh\OneDrive\Máy tính\PBL_3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+C:\Users\ASUS\OneDrive - The University of Technology\Desktop\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+D:\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+D:\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+D:\file_hoc_code\tai_lieu'\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe.config
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.exe
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\PBL_3.pdb
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.dll
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.dll
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.dll
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Guna.UI2.dll
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.dll
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\WebGrease.dll
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Antlr3.Runtime.pdb
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.xml
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\EntityFramework.SqlServer.xml
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\bin\Debug\Newtonsoft.Json.xml
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.AssemblyReference.cache
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.SuggestedBindingRedirects.cache
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe.config
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.AccountManagementForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BookManagementForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.BorrowAndReturnForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.ChangePasswordForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.LoginForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.Main.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.MainForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.Properties.Resources.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.PrivateAccountForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.View.StatisticForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.StudentManagementForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.VerifyEmailForm.resources
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.GenerateResource.cache
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CoreCompileInputs.cache
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.csproj.CopyComplete
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.exe
+D:\_PBL3\_PBL3\_PBL3\_PBL3\PBL_3\obj\Debug\PBL_3.pdb

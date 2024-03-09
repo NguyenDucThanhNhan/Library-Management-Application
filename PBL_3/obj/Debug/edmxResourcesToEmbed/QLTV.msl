@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db_a97fc8_qltvModelStoreContainer" CdmEntityContainer="QLTV">
+    <EntitySetMapping Name="ACCOUNTs">
+      <EntityTypeMapping TypeName="db_a97fc8_qltvModel.ACCOUNT">
+        <MappingFragment StoreEntitySet="ACCOUNT">
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BOOKs">
+      <EntityTypeMapping TypeName="db_a97fc8_qltvModel.BOOK">
+        <MappingFragment StoreEntitySet="BOOK">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+          <ScalarProperty Name="AUTHOR" ColumnName="AUTHOR" />
+          <ScalarProperty Name="ID_CATEGORY" ColumnName="ID_CATEGORY" />
+          <ScalarProperty Name="PUBLISH_YEAR" ColumnName="PUBLISH_YEAR" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CATEGORies">
+      <EntityTypeMapping TypeName="db_a97fc8_qltvModel.CATEGORY">
+        <MappingFragment StoreEntitySet="CATEGORY">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="LEND_NUMBER_DAY" ColumnName="LEND_NUMBER_DAY" />
+          <ScalarProperty Name="LOCATION" ColumnName="LOCATION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LENDED_BOOK">
+      <EntityTypeMapping TypeName="db_a97fc8_qltvModel.LENDED_BOOK">
+        <MappingFragment StoreEntitySet="LENDED_BOOK">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_BOOK" ColumnName="ID_BOOK" />
+          <ScalarProperty Name="ID_STUDENT" ColumnName="ID_STUDENT" />
+          <ScalarProperty Name="LEND_DAY" ColumnName="LEND_DAY" />
+          <ScalarProperty Name="RETURNED" ColumnName="RETURNED" />
+          <ScalarProperty Name="OVERDUE" ColumnName="OVERDUE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STAFFs">
+      <EntityTypeMapping TypeName="db_a97fc8_qltvModel.STAFF">
+        <MappingFragment StoreEntitySet="STAFF">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ROLE" ColumnName="ROLE" />
+          <ScalarProperty Name="PHONENUMBER" ColumnName="PHONENUMBER" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STUDENTs">
+      <EntityTypeMapping TypeName="db_a97fc8_qltvModel.STUDENT">
+        <MappingFragment StoreEntitySet="STUDENT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="CLASS" ColumnName="CLASS" />
+          <ScalarProperty Name="NUMBER_PHONE" ColumnName="NUMBER_PHONE" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="db_a97fc8_qltvModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyThuVienModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ACCOUNT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="USERNAME" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="PASSWORD" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="ID" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BOOK">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TITLE" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="AUTHOR" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="ID_CATEGORY" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="PUBLISH_YEAR" Type="int" Nullable="false" />
+    <Property Name="STATUS" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CATEGORY">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="LEND_NUMBER_DAY" Type="int" />
+    <Property Name="LOCATION" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="LENDED_BOOK">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ID_BOOK" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ID_STUDENT" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="LEND_DAY" Type="date" Nullable="false" />
+    <Property Name="OVERDUE_DAY" Type="date" />
+    <Property Name="OVERDUE" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="STAFF">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="ROLE" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="PHONENUMBER" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="EMAIL" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="STUDENT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="CLASS" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="NUMBER_PHONE" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__ACCOUNT__ID__4222D4EF">
+    <End Role="STAFF" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="ACCOUNT" Type="Self.ACCOUNT" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="STAFF">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ACCOUNT">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BOOK__ID_CATEGOR__4316F928">
+    <End Role="CATEGORY" Type="Self.CATEGORY" Multiplicity="1" />
+    <End Role="BOOK" Type="Self.BOOK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CATEGORY">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="BOOK">
+        <PropertyRef Name="ID_CATEGORY" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LENDED_BO__ID_BO__440B1D61">
+    <End Role="BOOK" Type="Self.BOOK" Multiplicity="1" />
+    <End Role="LENDED_BOOK" Type="Self.LENDED_BOOK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BOOK">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="LENDED_BOOK">
+        <PropertyRef Name="ID_BOOK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LENDED_BO__ID_ST__44FF419A">
+    <End Role="STUDENT" Type="Self.STUDENT" Multiplicity="1" />
+    <End Role="LENDED_BOOK" Type="Self.LENDED_BOOK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STUDENT">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="LENDED_BOOK">
+        <PropertyRef Name="ID_STUDENT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyThuVienModelStoreContainer">
+    <EntitySet Name="ACCOUNT" EntityType="Self.ACCOUNT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BOOK" EntityType="Self.BOOK" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CATEGORY" EntityType="Self.CATEGORY" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LENDED_BOOK" EntityType="Self.LENDED_BOOK" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STAFF" EntityType="Self.STAFF" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STUDENT" EntityType="Self.STUDENT" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__ACCOUNT__ID__4222D4EF" Association="Self.FK__ACCOUNT__ID__4222D4EF">
+      <End Role="STAFF" EntitySet="STAFF" />
+      <End Role="ACCOUNT" EntitySet="ACCOUNT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BOOK__ID_CATEGOR__4316F928" Association="Self.FK__BOOK__ID_CATEGOR__4316F928">
+      <End Role="CATEGORY" EntitySet="CATEGORY" />
+      <End Role="BOOK" EntitySet="BOOK" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LENDED_BO__ID_BO__440B1D61" Association="Self.FK__LENDED_BO__ID_BO__440B1D61">
+      <End Role="BOOK" EntitySet="BOOK" />
+      <End Role="LENDED_BOOK" EntitySet="LENDED_BOOK" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LENDED_BO__ID_ST__44FF419A" Association="Self.FK__LENDED_BO__ID_ST__44FF419A">
+      <End Role="STUDENT" EntitySet="STUDENT" />
+      <End Role="LENDED_BOOK" EntitySet="LENDED_BOOK" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

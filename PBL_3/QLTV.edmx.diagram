@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e8eb8d7c48b040879586617a5e04b8f4" Name="Diagram1">
+        <EntityTypeShape EntityType="db_a97fc8_qltvModel.ACCOUNT" Width="1.5" PointX="8" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a97fc8_qltvModel.BOOK" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a97fc8_qltvModel.CATEGORY" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a97fc8_qltvModel.LENDED_BOOK" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a97fc8_qltvModel.STAFF" Width="1.5" PointX="5.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a97fc8_qltvModel.STUDENT" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a97fc8_qltvModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="db_a97fc8_qltvModel.FK__ACCOUNT__ID__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a97fc8_qltvModel.FK__BOOK__ID_CATEGOR__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a97fc8_qltvModel.FK__LENDED_BO__ID_BO__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a97fc8_qltvModel.FK__LENDED_BO__ID_ST__6477ECF3" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
